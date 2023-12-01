@@ -1,0 +1,7 @@
+id=soundmod
+name=声音修改 Redmi Note 11 5G
+version=2.2
+versionCode=22
+author=史蒂夫ZMT工作室
+description=修改系统ui音效和相机音效，并且为修改相机编译了oat以加快速度。该模块仅在Redmi Note 11 5G(evergo)上做了测试，其他机器切勿刷入！目前仍处于测试版，请自行做好备份！
+updateJson=https://raw.kgithub.com/SteveZMTstudios/SoundMod_4_evergo/main/update/update.json
