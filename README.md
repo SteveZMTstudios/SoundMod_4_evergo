@@ -1,6 +1,6 @@
 # SoundMod_4_evergo
 为Redmi Note 11 5G设备定制的声音修改（原生）模块
-## 公告
+## 停止维护公告
 很抱歉，由于我不再拥有这台设备，因此我也不再有能力维护此仓库。
 此模块最后测试兼容于MIUI 14.0.3，国际版也可使用。
 适配Redmi Note 11/Redmi Note 11t/POCO m4 pro
